@@ -1,1 +1,3 @@
-hi my name is rachit
+hi my name is rachit.
+I am working in Codingal
+I am teaching Coding.
